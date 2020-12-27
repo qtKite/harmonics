@@ -6,9 +6,7 @@
     <b> Write. Play. Produce </b>
 </p>
 
-![GitHub](https://img.shields.io/github/license/ShaanCoding/Harmonics-Syncs) ![GitHub issues](https://img.shields.io/github/issues/ShaanCoding/Harmonics-Syncs) ![GitHub contributors](https://img.shields.io/github/contributors/ShaanCoding/Harmonics-Syncs?color=dark-green)
-
-This application was made for the USYD SYNCS 2020 Hackathon. This application was created by team Harmonics and uses HTML, CSS, PHP, JS as well as Bootstrap.
+This application was made for a 2020 Hackathon. This application was created by team Harmonics and uses HTML, CSS, PHP, JS as well as Bootstrap.
 
 ## Authors
 
